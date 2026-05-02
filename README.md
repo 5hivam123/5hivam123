@@ -43,14 +43,10 @@ me.say_hi()
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MY2b9JUz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_mr._shivam1608?igsh=MWFlamQ2YjAxaXduOA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-gupta-788131288)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:231542@kit.ac.in)
-
-</div>
 
 ---
 
@@ -87,8 +83,6 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img src="https://github-readme-stats.shion.dev/api?username=5hivam123&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" />
 &nbsp;
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=5hivam123&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
@@ -97,47 +91,23 @@ me.say_hi()
 
 <img src="https://streak-stats.demolab.com/?user=5hivam123&theme=tokyonight&hide_border=true" />
 
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
 ![](https://github-profile-trophy.vercel.app/?username=5hivam123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=5hivam123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
 
 ---
 
 ## ✍️ Dev Quote of the Day
 
-<div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
 [![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5hivam123&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
